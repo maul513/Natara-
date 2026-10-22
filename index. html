@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NATARA</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #f5f5ec;
+            color: #164a32;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            font-size: 40px;
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>NATARA</h1>
+    <p>Tradisi · Nilai · Aksi</p>
+    <p>Jelajahi tradisi Saparan Bekakak dan pelajari
+    cara menjaga lingkungan melalui kearifan lokal.</p>
+</body>
+</html>
